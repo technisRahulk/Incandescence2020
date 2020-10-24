@@ -5,11 +5,11 @@ This project is a great example of team-work and we have learnt a lot under supe
 https://incandobis.herokuapp.com/
 
 #Stack:
-Front-end :
->HTML
->CSS
->Javascript
-Back-end
->NodeJS
->MongoDB
->Express
+Front-end:
+1.HTML
+2.CSS
+3.Javascript
+Back-end:
+1.NodeJS
+2.MongoDB
+3.Express
