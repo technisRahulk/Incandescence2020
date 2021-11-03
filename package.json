@@ -13,7 +13,7 @@
     "node-localstorage": "^2.1.5",
     "razorpay": "^2.0.5",
     "shortid": "^2.2.15",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "scripts": {
